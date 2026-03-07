@@ -319,6 +319,11 @@ PRODUCT_PACKAGES += \
     WifiResTarget \
     WifiResTarget_spf
 
+PRODUCT_PACKAGES += \
+    SettingsLibResExtra \
+    SettingsResExtra \
+    SystemUIResExtra
+
 # Partitions
 PRODUCT_PACKAGES += \
     vendor_dsp_mountpoint \
